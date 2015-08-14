@@ -10,7 +10,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xebium</artifactId>
   <groupId>com.xebia.incubator</groupId>
-  <version>0.12-PB-0.2</version>
+  <version>0.12-PB-0.3-SNAPSHOT</version>
   <name>Xebium</name>
   <packaging>jar</packaging>
 
@@ -30,7 +30,7 @@
 
   <properties>
     <selenium.version>2.46.0</selenium.version>
-    <fitnesse.version>20130530</fitnesse.version>
+    <fitnesse.version>20150424</fitnesse.version>
     <fitnesse.port>8000</fitnesse.port>
     <fitnesse.expiration>0</fitnesse.expiration>
     <maven-classpath-plugin.version>1.7</maven-classpath-plugin.version>
