@@ -10,7 +10,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xebium</artifactId>
   <groupId>com.portbase</groupId>
-  <version>0.14.1</version>
+  <version>0.14.2-SNAPSHOT</version>
   <name>Xebium</name>
   <packaging>jar</packaging>
 
