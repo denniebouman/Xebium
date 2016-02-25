@@ -77,7 +77,7 @@ public class SeleniumDriverFixture {
 	 *
 	 * This has to be done before the 'start browser on url' call.
 	 */
-    private boolean useFastSeleniumEmulation = true;
+    private boolean useFastSeleniumEmulation = false;
 
 	public SeleniumDriverFixture() {
 		super();
